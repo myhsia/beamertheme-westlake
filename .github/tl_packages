@@ -39,6 +39,11 @@ xcolor
 #
 # Required
 beamer
+### Required by `geometry`
+epstopdf-pkg
+ifoddpage
+###
+geometry
 pgf
 ragged2e
 #
