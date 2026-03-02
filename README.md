@@ -7,8 +7,8 @@
 The `Westlake` Beamer Theme
 ===========================
 
-The `Westlake` Beamer theme is inspired by West Lake,
-a famous freshwater lake in Hangzhou, China, and Westlake University.
+The `Westlake` Beamer theme is inspired by West Lake, a famous freshwater lake
+in Hangzhou, China, and also inspired by Westlake University.
 
 Overview
 --------
