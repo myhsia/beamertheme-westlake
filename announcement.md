@@ -1,4 +1,4 @@
-New beamer theme on CTAN: Westlake
+New beamer theme on CTAN: Westlake, Version 0.1A.
 
 This beamer theme is inspired by West lake, a famous freshwater lake in Hangzhou, China, and also inspired by Westlake University.
 

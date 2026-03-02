@@ -1,9 +1,9 @@
 name: Publish New Release
 
 on:
-  # push:
-  #   paths:
-  #     - "announcement.md"
+  push:
+    paths:
+      - "announcement.md"
   workflow_dispatch:
 
 jobs:
