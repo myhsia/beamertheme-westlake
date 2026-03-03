@@ -1,5 +1,3 @@
-New beamer theme on CTAN: Westlake, version 0.1A released.
-
-This beamer theme is inspired by West lake, a famous freshwater lake in Hangzhou, China, and also inspired by Westlake University.
-
-Interfaces are provided for costuming theme color, logo, badge, etc. in this theme.
+Version 0.1B released.
+- Supports change the opacities of badge, main background and base background.
+- Supports adding badge on the north east corner of title page and section page.
