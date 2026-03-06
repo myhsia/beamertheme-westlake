@@ -1,7 +1,5 @@
 --[==========================================[--
         L3BUILD FILE FOR BEAMER-WESTLAKE
-      Once Pushed With This File Modified
-        A New Release Will Be Published
 --]==========================================]--
 
 --[==========================================[--
@@ -18,7 +16,7 @@ maintainid          = "myhsia"
 email               = "myhsia@outlook.com"
 repository          = "https://github.com/" .. maintainid .. "/" .. module
 summary             = "A beamer theme inspired by West Lake and Westlake University."
-description         = "The `Westlake` Beamer Theme is inspired by West Lake, a famous freshwater lake in Hangzhou, China, and Westlake University."
+description         = "The `westlake` Beamer Theme is inspired by West Lake, a famous freshwater lake in Hangzhou, China, and also inspired by Westlake University"
 
 --[==========================================[--
           Build, Pack, Tag, and Upload
